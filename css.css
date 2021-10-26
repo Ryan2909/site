@@ -1,0 +1,18 @@
+div.titre{
+    font-size: 70px;
+    text-align : center;
+    background-color: rgb(44, 108, 204);
+    
+
+}
+div.connexion{
+    text-align: right;
+    background-color: rgb(44, 108, 204);
+
+}
+div.image1{
+   text-align: center;
+}
+div.style1{
+    font-size:30px; 
+}
