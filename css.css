@@ -1,18 +1,43 @@
 div.titre{
     font-size: 70px;
     text-align : center;
-    background-color: rgb(44, 108, 204);
-    
-
+    background-color:dodgerblue;
 }
 div.connexion{
-    text-align: right;
-    background-color: rgb(44, 108, 204);
-
+    font-size: 30px;
+    background-color: dodgerblue;
+    text-align: center;
 }
+div.connexion1{
+    font-size: 30px;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
 div.image1{
    text-align: center;
+   background-color: lightgrey;
 }
-div.style1{
-    font-size:30px; 
+div.titre1{
+    font-size:40px;
+    background-color: lightgrey; 
 }
+div.texte1{
+    font-size: 25px;
+    background-color:lightgrey;
+
+}
+div.texte2{
+    font-size: 25px;
+    background-color: lightgrey;
+}
+div.titre2{
+    font-size: 40px ;
+    background-color: lightgrey;
+    text-align: center;
+}
+div.image2{
+    text-align: center;
+    background-color: lightgrey;
+}
+ 
