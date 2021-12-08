@@ -1,0 +1,18 @@
+div.titre1{
+    font-size: 70px;
+    text-align: center;
+}
+div.titre2{
+    font-size: 40px;
+    text-align: left;
+    color: blue;
+}
+div.style1{
+    font-size: 30px;
+}
+div{
+    background: lightgrey;
+}
+div.espace{
+    background-color: lightgrey;
+}
